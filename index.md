@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/Picture1.jpg
+image: Picture1.jpg
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
