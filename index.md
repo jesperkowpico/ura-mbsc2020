@@ -11,21 +11,25 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
+        title: Ministry of ABC
+    subtitle: We provide Singaporeans with XYZ services
+    background: /images/banner.png
+    dropdown:
+        title: I want to...
+        options:
+        - title: Sign up for EFG
+          url: /signup/
+        - title: Learn more about ABC
+          url: /learn-more/
+    key_highlights:
+        - title: ABC services
+          description: Find out what ABC can do for you
+          url: /services/
+        - title: Our Annual Reports
+          url: /annual-reports/
+        - title: Join ABC
+          description: Unleash your passion and be rewarded with a fulfilling career!
+          url: /careers/
     - infobar:
         title: Infobar title
         subtitle: Subtitle
