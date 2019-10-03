@@ -1,11 +1,9 @@
 ---
 layout: homepage
-title: Isomer Site
-description: # Welcome to MBSC 2020
-
-Welcome the new year MBSC this year! Dazzling fireworks, mesmerizing art installations and beautiful performances awaits you!
- **Contact Us**. If you want to learn about MbSc, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
-
+title: Ministry of ABC
+description: The Ministry of ABC is the ministry in charge of XYZ
+permalink: /
+notification: Initiative A will be launching soon! <a href="/register/">Register now</a>
 image: Picture1.jpg
 permalink: /
 notification: Here's a notification bar you can use!
