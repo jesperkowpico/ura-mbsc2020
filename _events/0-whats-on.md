@@ -1,3 +1,8 @@
+---
+title: Whats On
+permalink: /events/whats-on/
+---
+
 # Whats On
 
 <font color="orangered"><i><b>Wave 3 List of event for Marina Bay Singapore Countdown!</b></i></font>
