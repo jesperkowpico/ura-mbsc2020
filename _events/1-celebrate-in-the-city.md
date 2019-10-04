@@ -1,6 +1,7 @@
 ---
 title: Celebrate In The City
-permalink: /events/celebrate-in-the-city/
+permalink: /about/celebrate-in-the-city/
 ---
+
 
 
