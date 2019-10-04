@@ -1,20 +1,4 @@
-layout: leftnav-page-content
-title: Whats On
-permalink: /events/whats-on/
-breadcrumb: Whats On
-collection_name: Events
-second_nav_title: "Events"
----
-
-<!--
----
-layout: simple-page
-title: Whats On
-permalink: /events/whats-on/
-breadcrumb: Whats On
----
--->
-### Whats On
+# Whats On
 
 <font color="orangered"><i><b>Wave 3 List of event for Marina Bay Singapore Countdown!</b></i></font>
 
