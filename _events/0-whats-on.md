@@ -10,7 +10,7 @@ permalink: /events/whats-on/
 <table>
 <tr>
     <td>
-      <a href="https://ura-mbsc2020-staging.netlify.com/nyan"> <img src="/images/Picture1.jpg" /></a>
+      <a href="https://ura-mbsc2020-staging.netlify.com/nyan"> <img src="Voices (Esplanade).jpg" /></a>
     </td>
     <td>
       <b>Star Island<font color="red"> (FULL)</font></b>
