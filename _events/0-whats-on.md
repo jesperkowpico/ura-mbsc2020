@@ -14,9 +14,9 @@ permalink: /events/whats-on/
     </td>
     <td>
       <b>Star Island<font color="red"> (FULL)</font></b>
-      <br>1 July 2019 (Mon), 9.00am – 12.00pm 
+      <br>31 December 2019 (Tue), 5.00pm – 11.50pm 
       <br> This year, ticket holders of the sold-out show will debut a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of Fireworks, Drones, 3D Surround Sound, Lasers, Pyrotechnics, and Stage Performances.
-      <br><a href="/events/learning-journeys/event-details/LJ_DawsonTour">Click here to find out more.</a>
+      <br><a href="https://star-island.sg/">Click here to find out more.</a>
     </td>
 </tr>  
 <tr>
