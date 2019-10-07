@@ -13,9 +13,9 @@ permalink: /events/whats-on/
       <a href="https://ura-mbsc2020-staging.netlify.com/nyan"> <img src="/images/Picture1.jpg" /></a>
     </td>
     <td>
-      <b>Random image<font color="red"> (FULL)</font></b>
+      <b>Star Island<font color="red"> (FULL)</font></b>
       <br>1 July 2019 (Mon), 9.00am – 12.00pm 
-      <br>Find out how Singapore had responded and had been a part of regional and global influences over the centuries through this heritage tour to Dawson.
+      <br> This year, ticket holders of the sold-out show will debut a world-class drone performance, making it the first and only show in the world to present a completely synchronized display of Fireworks, Drones, 3D Surround Sound, Lasers, Pyrotechnics, and Stage Performances.
       <br><a href="/events/learning-journeys/event-details/LJ_DawsonTour">Click here to find out more.</a>
     </td>
 </tr>  
