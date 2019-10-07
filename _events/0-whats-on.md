@@ -32,7 +32,7 @@ permalink: /events/whats-on/
 </tr>  
 <tr>
     <td>
-      <a href="www.esplanade.com/voices"> <img src="Voices (Esplanade).jpg" /></a>
+      <a href="www.esplanade.com/voices"> <img src="Voices-Esplanade.jpg" /></a>
     </td>
     <td>
       <b>Voices-A Festival of Songs</b>
