@@ -10,7 +10,7 @@ permalink: /events/whats-on/
 <table>
 <tr>
     <td>
-      <a href="https://ura-mbsc2020-staging.netlify.com/nyan"> <img src="Voices (Esplanade).jpg" /></a>
+      <a href="https://star-island.sg/"> <img src="Voices (Esplanade).jpg" /></a>
     </td>
     <td>
       <b>Star Island<font color="red"> (FULL)</font></b>
@@ -32,13 +32,13 @@ permalink: /events/whats-on/
 </tr>  
 <tr>
     <td>
-      <a href="/events/learning-journeys/event-details/LA_SFAWfPO"> <img src="/images/Picture1.jpg" /></a>
+      <a href="www.esplanade.com/voices"> <img src="Voices (Esplanade).jpg" /></a>
     </td>
     <td>
       <b>Voices-A Festival of Songs</b>
       <br>6-8 December 2019 (Tue), 9.00am - 10.30am or 11.00am - 12.30pm
       <br>Voices invites you to connect with one another through the shared experience of song. It is through the coming together of music and words that we create song—a beautiful weave of two different elements. Similarly, when we all join our voices, we create magical connections with the fellow singers around us.
-      <br><a href=" www.esplanade.com/voices">Click here to find out more.</a>
+      <br><a href="www.esplanade.com/voices">Click here to find out more.</a>
     </td>
   </tr>
 <tr>
